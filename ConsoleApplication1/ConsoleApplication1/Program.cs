@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         
         static void Zadanie()
         {
-
+            //To do basic Method doing task  
         }
        public static void Main(string[] args)
         {
