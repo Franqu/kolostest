@@ -8,6 +8,11 @@ namespace ConsoleApplication1
 {
     public class Program
     {
+        
+        static void Zadanie()
+        {
+
+        }
        public static void Main(string[] args)
         {
         }
